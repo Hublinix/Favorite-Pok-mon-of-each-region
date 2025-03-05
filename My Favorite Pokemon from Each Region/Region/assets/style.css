@@ -1,0 +1,87 @@
+img {
+   width: 400px;
+   height: 400px;
+}
+
+header {
+   text-align: center;
+}
+
+.kanto {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.johto {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.hoenn {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.sinnoh {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.unova {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#kalos-shield {
+   position: absolute;
+   right: 400px;
+}
+
+#kalos-blade {
+   position: absolute;
+   left: 400px;
+}
+
+.alola {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.galar {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#paldea-scarlet {
+   position: absolute;
+   right: 400px;
+}
+
+#paldea-violet {
+   position: absolute;
+   left: 400px;
+}
+
+#prevBtn {
+   position: absolute;
+   bottom: auto;
+   left: auto;
+}
+
+#content {
+   position: absolute;
+   bottom: auto;
+}
+
+#nextBtn {
+   position: absolute;
+   bottom: auto;
+   right: auto;
+}
